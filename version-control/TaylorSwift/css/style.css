@@ -1,0 +1,30 @@
+body {
+  font-family: "Roboto", sans-serif;
+
+  font-weight: 300;
+}
+
+.bottom-line {
+  margin-bottom: 20px;
+}
+
+.special-color {
+  color: #7d97ad;
+}
+
+.text-muted {
+  color: #bcbbbb;
+}
+
+.text-thin {
+  font-weight: 50px;
+}
+
+.title-super {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+  height: 101px;
+}
